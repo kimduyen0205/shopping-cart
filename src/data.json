@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MÓC KHOÁ INTERNOT",
+      "price": 79000,
+      "thumbnail": "https://www.bugs.vn/static/store/products/moc-khoa-internot-ss-0.jpg",
+      "ship": "Miễn phí giao hàng"
+    },
+    {
+      "id": 2,
+      "name": "MÓC KHOÁ VISUAL STUDIO",
+      "price": 79000,
+      "thumbnail": "https://www.bugs.vn/static/store/products/moc-khoa-vs-ss-0.jpg",
+      "ship": "Miễn phí giao hàng"
+    },
+    {
+      "id": 3,
+      "name": "MÓC KHOÁ PHOTOSHOP",
+      "price": 79000,
+      "thumbnail": "https://www.bugs.vn/static/store/products/moc-khoa-pts-ss-0.jpg",
+      "ship": "Miễn phí giao hàng"
+    },
+    {
+      "id": 4,
+      "name": "MÓC KHÓA ILLUSTRATOR",
+      "price": 79000,
+      "thumbnail": "https://www.bugs.vn/static/store/products/moc-khoa-ai-ss-0.jpg",
+      "ship": "Miễn phí giao hàng"
+    }
+  ]
+}
